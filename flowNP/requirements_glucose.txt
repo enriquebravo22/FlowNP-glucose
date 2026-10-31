@@ -1,0 +1,10 @@
+# Entorno de la persona B (FlowNP sobre glucose_np). Python 3.11.
+torch>=2.7
+flow-matching==1.0.10
+attrdictionary>=1.0.0,<2
+pyyaml
+tqdm
+numpy
+pandas
+scipy
+matplotlib
