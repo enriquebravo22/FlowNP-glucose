@@ -1,0 +1,15 @@
+# Datos (se descargan de GlucoBench; ver README)
+glucose_np/data/
+glucose_np/tmp/
+glucose_np/GlucoBench/
+
+# Checkpoints y logs de entrenamiento
+flowNP/output/
+*.tar
+*.pt
+*.ckpt
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
