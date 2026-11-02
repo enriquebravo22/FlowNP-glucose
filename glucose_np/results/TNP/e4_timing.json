@@ -1,0 +1,20 @@
+{
+  "model": "TNP",
+  "rows": [
+    {
+      "steps": 42.1,
+      "method": "tnpa",
+      "nfe": 42.1,
+      "time_per_task_s": 0.471559855596257,
+      "crps_mgdl": 3.862603523999603,
+      "rmse_mgdl": 11.059658273409193,
+      "cov90": 0.9317106319886328,
+      "loglik_mgdl": null,
+      "num_samples": 100,
+      "batch_size": 16,
+      "n_tasks": 1922,
+      "mean_nt": 42.10978147762747,
+      "device": "Tesla T4"
+    }
+  ]
+}
